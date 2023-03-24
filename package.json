@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/waruiaoshi/asincronismo-javascript/issues"
   },
-  "homepage": "https://github.com/waruiaoshi/asincronismo-javascript#readme"
+  "homepage": "https://github.com/waruiaoshi/asincronismo-javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
