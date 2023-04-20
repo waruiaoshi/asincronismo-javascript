@@ -4,7 +4,9 @@
   "description": "Curso de asincronismo en javascript de platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callbacks/challenge.js"
+
   },
   "repository": {
     "type": "git",
